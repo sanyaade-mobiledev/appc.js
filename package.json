@@ -1,0 +1,26 @@
+{
+  "name": "appc-lib",
+  "description": "Appcelerator Common Library",
+  "homepage":"http://github.com/appcelerator/appc-lib",
+  "keywords": [
+    "appcelerator"
+  ],
+  "version": "0.1.0",
+  "author": "Appcelerator, Inc. <info@appcelerator.com>",
+  "maintainers": [
+  ],
+  "contributors":[
+    {"name":"Jeff Haynie","email":"jhaynie@appcelerator.com"}
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/appcelerator/appclib.git"
+  },
+  "dependencies": {
+  },
+  "license":"Apache Public License v2",
+  "main": "./lib/appc-lib",
+  "engines": {
+    "node": ">= 0.6.0"
+  }
+}
