@@ -1,4 +1,4 @@
-appc-lib
+appc.js
 ========
 
 

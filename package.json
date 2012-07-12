@@ -1,7 +1,7 @@
 {
-  "name": "appc-lib",
+  "name": "appc.js",
   "description": "Appcelerator Common Library",
-  "homepage":"http://github.com/appcelerator/appc-lib",
+  "homepage":"http://github.com/appcelerator/appc.js",
   "keywords": [
     "appcelerator"
   ],
@@ -14,12 +14,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/appcelerator/appclib.git"
+    "url": "http://github.com/appcelerator/appc.js.git"
   },
   "dependencies": {
   },
   "license":"Apache Public License v2",
-  "main": "./lib/appc-lib",
+  "main": "./lib/appc",
   "engines": {
     "node": ">= 0.6.0"
   }
